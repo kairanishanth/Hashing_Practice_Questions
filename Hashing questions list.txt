@@ -1,0 +1,148 @@
+1)Largest/longest Subarray with 0 Sum:
+link: https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
+FOLLOWUP QUESTION FOR ABOVE QUESTION
+2)Count the number of subarrays with 0 Sum:
+link: https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1
+
+3)Longest Subarray with Sum K
+link: https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+FOLLOWUP QUESTION FOR ABOVE QUESTION
+4)Count the number of subarrays with the sum K
+link: https://leetcode.com/problems/subarray-sum-equals-k/submissions/1087398782/
+FOLLOWUP QUESTION FOR ABOVE QUESTION
+5)Smallest Subarray length with sum equal to k
+link: https://www.geeksforgeeks.org/smallest-subarray-with-sum-k-from-an-array/
+link: https://stackoverflow.com/questions/64418218/smallest-subarray-with-sum-equal-to-k
+link: https://leetcode.com/problems/minimum-size-subarray-sum/description/  (2pointers)
+
+
+6)Continuous Subarray Sum 
+link:https://leetcode.com/problems/continuous-subarray-sum/
+
+7)Max distance between same Elements 
+link: https://practice.geeksforgeeks.org/problems/max-distance-between-same-elements/1
+
+8)Longest COnsecutive Sequence:
+link: https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1
+link: https://leetcode.com/problems/longest-consecutive-sequence/submissions/928895021/
+
+9)Array is Subset of another subarray
+link: https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/1
+
+10)Minimum Operations to make all elements equal in the Array 
+link: https://www.geeksforgeeks.org/minimum-operation-make-elements-equal-array/
+
+11)sum of elements in an array with frequencies greater then or equal to that element 
+link: https://www.geeksforgeeks.org/sum-of-elements-in-an-array-with-frequencies-greater-than-or-equal-to-that-element/
+
+12)First Unique characters in a string
+link: https://leetcode.com/problems/first-unique-character-in-a-string/description/
+
+13)Max number of k sum pairs
+link: https://leetcode.com/problems/max-number-of-k-sum-pairs/submissions/1088880464/
+
+14)Maximum sum if Distinct Subarray with length K
+link: https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
+link: https://www.geeksforgeeks.org/maximum-sum-of-subarrays-having-distinct-elements-of-length-k/
+
+15)Count Array pairs divisible by k(most imp)
+link: https://leetcode.com/problems/count-array-pairs-divisible-by-k/description/
+
+16)Frequencies of Limited Range Array Elements 
+link: https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1
+
+17)Check if Array pairs are divisible by k(most imp)
+link: https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
+
+18)Count pairs in array divisible by K(most imp)
+link: https://practice.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1
+
+19)Subarrays with K Different Integers(most imp)
+link: https://leetcode.com/problems/subarrays-with-k-different-integers/
+link: https://practice.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1
+
+20)Longest Substring Without repeating characters  (or) Longest Distinct characters in string
+link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+link: https://practice.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+21)Substring with exactly k distinct characters 
+link:https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+22)Largest subarray if 0's and 1's contiguous array 
+link: https://practice.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1
+link: https://leetcode.com/problems/contiguous-array/submissions/1089802977/
+FOLLOWUP QUESTION FOR ABOVE QUESTION
+23)count subarrays with equal 0's and 1's
+link: https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1
+
+
+24)Count of subarrays with sum divisible by k (OR) subarrays with sum divisible by k
+link: https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1
+link: https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/1089822660/
+FOLLOWUP QUESTION FOR ABOVE QUESTION
+25)longest subarray with sum divisible by k
+link: https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1
+
+25)Valid Anagram
+link: https://leetcode.com/problems/valid-anagram/description/
+link: https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
+FOLLOWUP QUESTION FOR ABOVE QUESTION
+26)Group Anagrams:
+link: https://practice.geeksforgeeks.org/problems/print-anagrams-together/1
+link: https://leetcode.com/problems/group-anagrams/description/
+
+FOLLOW UP QUESTIONS FOR 19
+27)Count of substrings having at most k unique characters 
+link: https://practice.geeksforgeeks.org/problems/count-number-of-substrings4528/1
+28)longest substring at most unique characters
+link: https://practice.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1
+
+29)Happy Number(imp)
+link: https://leetcode.com/problems/happy-number/
+link: https://practice.geeksforgeeks.org/problems/next-happy-number4538/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+
+30)Longest Palindrome
+link: https://leetcode.com/problems/longest-palindrome/description/
+
+31)Distribute Candies
+link: https://leetcode.com/problems/distribute-candies/description/
+
+32) Minimum Index Sum of Two Lists
+link: https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/
+
+33)Set Mismatch 
+link: https://leetcode.com/problems/set-mismatch/description/
+
+34)longest word in Dictionary 
+link: https://leetcode.com/problems/longest-word-in-dictionary/description/
+
+35)Powerful Integers(imp)
+link: https://leetcode.com/problems/powerful-integers/description/
+
+36)Fraction to Recurring the decimal(imp)
+link: https://leetcode.com/problems/fraction-to-recurring-decimal/description/
+link: https://practice.geeksforgeeks.org/problems/a-simple-fraction0921/1?utm_source=geeksforgeeks&utm_medium=ml_article_practice_tab&utm_campaign=article_practice_tab
+
+37)Bulls and Cows (imp)
+link: https://leetcode.com/problems/bulls-and-cows/description/
+
+38)Minimum Window Substring(most imp)
+link: https://leetcode.com/problems/minimum-window-substring/submissions/1091307694/
+link: 
+
+39)Find Anagrams in a String 
+link: https://leetcode.com/problems/find-all-anagrams-in-a-string/description/
+
+40)Repeated DNA Sequence 
+link: https://leetcode.com/problems/repeated-dna-sequences/description/
+
+
+
+
+
+
+
+
+
+
+
